@@ -34,7 +34,7 @@ Everyone on your team should add their name along with a link to their GitHub
 your repo access and to practice PR'ing with your team *before* you start
 coding!
 
-- Teammate Jaden Christie  #1: [GitHub](https://github.com/jsvolta) / [LinkedIn](https://www.linkedin.com/in/jadenchristie)
+- Jaden Christie  #1: [GitHub](https://github.com/jsvolta) / [LinkedIn](https://www.linkedin.com/in/jadenchristie)
 - Brianna Duncan #2: [GitHub](https://github.com/BriannaD23) / [LinkedIn](www.linkedin.com/in/briannaduncan)
 
 - Mark Coty #3: [GitHub](  https://github.com/markcoty) / [LinkedIn](https://www.linkedin.com/in/mark-c-875b00286/.)
