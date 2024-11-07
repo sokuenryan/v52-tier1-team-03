@@ -35,7 +35,7 @@ your repo access and to practice PR'ing with your team *before* you start
 coding!
 
 - Jaden Christie  #1: [GitHub](https://github.com/jsvolta) / [LinkedIn](https://www.linkedin.com/in/jadenchristie)
-- Brianna Duncan #2: [GitHub](https://github.com/BriannaD23) / [LinkedIn](www.linkedin.com/in/briannaduncan)
+- Brianna Duncan #2: [GitHub](https://github.com/BriannaD23) / [LinkedIn](https://www.linkedin.com/in/briannaduncan)
 
 - Mark Coty #3: [GitHub](  https://github.com/markcoty) / [LinkedIn](https://www.linkedin.com/in/mark-c-875b00286/.)
 
