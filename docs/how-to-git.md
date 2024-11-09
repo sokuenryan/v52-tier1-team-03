@@ -1,5 +1,5 @@
 # This Document Covers The Basics of Git
-## What is Git?
+### What is Git?
 Git is a version control system. It helps developers manage and track changes to their code
 
 ### Git branching and merging:
